@@ -1,0 +1,235 @@
+constituency_id,constituency,taluk_id,taluk
+1,Arakkonam,1,Tiruttani
+1,Arakkonam,1,Arakkonnam
+1,Arakkonam,1,Sholinghur
+1,Arakkonam,1,Katpadi
+1,Arakkonam,1,Ranipet
+1,Arakkonam,1,Arcot
+2,Aarani,2,Polur
+2,Aarani,2,Aarani
+2,Aarani,2,Cheyyar
+2,Aarani,2,Vandavasi
+2,Aarani,2,Gingee
+2,Aarani,2,Mailam
+3,Chennai (Central),3,Villivakkam
+3,Chennai (Central),3,Egmore
+3,Chennai (Central),3,Harbour
+3,Chennai (Central),3,Chepauk-Thiruvallikeni
+3,Chennai (Central),3,Thousand Lights
+3,Chennai (Central),3,Anna Nagar
+4,Chennai (North),4,Thiruvottiyur
+4,Chennai (North),4,Dr. Radhakrishnan Nagar
+4,Chennai (North),4,Perambur
+4,Chennai (North),4,Kolathur
+4,Chennai (North),4,Thiru-Vi-Ka-Nagar
+4,Chennai (North),4,Royapuram
+5,Chennai (South),5,Virugampakkam
+5,Chennai (South),5,Saidapet
+5,Chennai (South),5,Thiyagarayanagar
+5,Chennai (South),5,Mylapore
+5,Chennai (South),5,Velachery
+5,Chennai (South),5,Shozhinganallur
+6,Chidambaram (SC),6,Kunnam
+6,Chidambaram (SC),6,Ariyalur
+6,Chidambaram (SC),6,Jayankondam
+6,Chidambaram (SC),6,Bhuvanagiri
+6,Chidambaram (SC),6,Chidambaram
+6,Chidambaram (SC),6,Kattumannarkoil
+7,Coimbatore,7,Palladam
+7,Coimbatore,7,Sulur
+7,Coimbatore,7,Kavundampalayam
+7,Coimbatore,7,Coimbatore North
+7,Coimbatore,7,Coimbatore South
+7,Coimbatore,7,Singanallur
+8,Cuddalore,8,Tittakudi
+8,Cuddalore,8,Vriddhachalam
+8,Cuddalore,8,Neyveli
+8,Cuddalore,8,Panruti
+8,Cuddalore,8,Cuddalore
+8,Cuddalore,8,Kurinjipadi
+9,Dharmapuri,9,Palacodu
+9,Dharmapuri,9,Pennagaram
+9,Dharmapuri,9,Dharmapuri
+9,Dharmapuri,9,Pappireddippatti
+9,Dharmapuri,9,Harur
+9,Dharmapuri,9,Mettur
+10,Dindigul,10,Palani
+10,Dindigul,10,Oddanchatram
+10,Dindigul,10,Athoor
+10,Dindigul,10,Nilakottai
+10,Dindigul,10,Natham
+10,Dindigul,10,Dindigul
+11,Erode,11,Kumarapalayam
+11,Erode,11,Erode West
+11,Erode,11,Erode East
+11,Erode,11,Modakkurichi
+11,Erode,11,Dharapuram
+11,Erode,11,Kangayam
+12,Kallakurichi,12,Rishivandiyam
+12,Kallakurichi,12,Sankarapuram
+12,Kallakurichi,12,Kallakurichi
+12,Kallakurichi,12,Gangavalli
+12,Kallakurichi,12,Attur
+12,Kallakurichi,12,Yercaud
+13,Kancheepuram (SC),13,Chengalpattu
+13,Kancheepuram (SC),13,Thiruporur
+13,Kancheepuram (SC),13,Cheyyur
+13,Kancheepuram (SC),13,Madurantakam
+13,Kancheepuram (SC),13,Uthiramerur
+13,Kancheepuram (SC),13,Kancheepuram
+14,Kanniyakumari,14,Kanniyakumari
+14,Kanniyakumari,14,Nagercoil
+14,Kanniyakumari,14,Colachal
+14,Kanniyakumari,14,Padmanabhapuram
+14,Kanniyakumari,14,Vilavancode
+14,Kanniyakumari,14,Killiyoor
+15,Karur,15,Vedasandur
+15,Karur,15,Aravakurichi
+15,Karur,15,Karur
+15,Karur,15,Krishnarayapuram
+15,Karur,15,Manapparai
+15,Karur,15,Viralimalai
+16,Krishnagiri,16,Uthangarai
+16,Krishnagiri,16,Bargur
+16,Krishnagiri,16,Krishnagiri
+16,Krishnagiri,16,Veppanahalli
+16,Krishnagiri,16,Hosur
+16,Krishnagiri,16,Thalli
+17,Madurai,17,Melur
+17,Madurai,17,Madurai East
+17,Madurai,17,Madurai North
+17,Madurai,17,Madurai South
+17,Madurai,17,Madurai Central
+17,Madurai,17,Madurai West
+18,Mayiladuthurai,18,Sirkazhi
+18,Mayiladuthurai,18,Mayiladuturai
+18,Mayiladuthurai,18,Poompuhar
+18,Mayiladuthurai,18,Thiruvidaimarudur
+18,Mayiladuthurai,18,Kumbakonam
+18,Mayiladuthurai,18,Papanasam
+19,Nagapattinam (SC),19,Nagapattinam
+19,Nagapattinam (SC),19,Kilvelur
+19,Nagapattinam (SC),19,Vedaranyam
+19,Nagapattinam (SC),19,Thiruthuraipoondi
+19,Nagapattinam (SC),19,Tiruvarur
+19,Nagapattinam (SC),19,Nannilam
+20,Namakkal,20,Sankari
+20,Namakkal,20,Rasipuram
+20,Namakkal,20,Senthamangalam
+20,Namakkal,20,Namakkal
+20,Namakkal,20,Paramathi-Velur
+20,Namakkal,20,Tiruchengodu
+21,Nilgiris (SC),21,Bhavanisagar
+21,Nilgiris (SC),21,Udhagamandalam
+21,Nilgiris (SC),21,Gudalur
+21,Nilgiris (SC),21,Coonoor
+21,Nilgiris (SC),21,Mettuppalayam
+21,Nilgiris (SC),21,Avanashi
+22,Perambalur,22,Kulithalai
+22,Perambalur,22,Lalgudi
+22,Perambalur,22,Manachanallur
+22,Perambalur,22,Musiri
+22,Perambalur,22,Perambalur
+22,Perambalur,22,Thuraiyur
+23,Pollachi,23,Thondamuthur
+23,Pollachi,23,Kinathukadavu
+23,Pollachi,23,Pollachi
+23,Pollachi,23,Valparai
+23,Pollachi,23,Udumalaipettai
+23,Pollachi,23,Madathukulam
+24,Ramanathapuram,24,Aranthangi
+24,Ramanathapuram,24,Tiruchuli
+24,Ramanathapuram,24,Paramakudi
+24,Ramanathapuram,24,Tiruvadanai
+24,Ramanathapuram,24,Ramanathapuram
+24,Ramanathapuram,24,Mudukulathur
+25,Salem,25,Omalur
+25,Salem,25,Edappadi
+25,Salem,25,Salem West
+25,Salem,25,Salem North
+25,Salem,25,Salem South
+25,Salem,25,Veerapandi
+26,Sivaganga,26,Thirumayam
+26,Sivaganga,26,Alangudi
+26,Sivaganga,26,Karaikudi
+26,Sivaganga,26,Tiruppattur
+26,Sivaganga,26,Sivaganga
+26,Sivaganga,26,Manamadurai
+27,Sriperumbudur,27,Maduravoyal
+27,Sriperumbudur,27,Ambattur
+27,Sriperumbudur,27,Alandur
+27,Sriperumbudur,27,Sriperumbudur
+27,Sriperumbudur,27,Pallavaram
+27,Sriperumbudur,27,Tambaram
+28,Tenkasi (SC),28,Rajapalayam
+28,Tenkasi (SC),28,Srivilliputhur
+28,Tenkasi (SC),28,Sankarankoil
+28,Tenkasi (SC),28,Vasudevanallur
+28,Tenkasi (SC),28,Kadayanallur
+28,Tenkasi (SC),28,Tenkasi
+29,Thanjavur,29,Mannargudi
+29,Thanjavur,29,Tiruvaiyaru
+29,Thanjavur,29,Thanjavur
+29,Thanjavur,29,Orathanad
+29,Thanjavur,29,Pattukkottai
+29,Thanjavur,29,Peravurani
+30,Theni,30,Sholavandan
+30,Theni,30,Usilampatti
+30,Theni,30,Andipatti
+30,Theni,30,Periyakulam
+30,Theni,30,Bodinayakanur
+30,Theni,30,Cumbum
+31,Thiruvallur (SC),31,Gummidipoondi
+31,Thiruvallur (SC),31,Ponneri
+31,Thiruvallur (SC),31,Thiruvallur
+31,Thiruvallur (SC),31,Poonamallee
+31,Thiruvallur (SC),31,Avadi
+31,Thiruvallur (SC),31,Madavaram
+32,Thoothukkudi,32,Vilathikulam
+32,Thoothukkudi,32,Thoothukkudi
+32,Thoothukkudi,32,Tiruchendur
+32,Thoothukkudi,32,Srivaikuntam
+32,Thoothukkudi,32,Ottapidaram
+32,Thoothukkudi,32,Kovilpatti
+33,Tiruchirappalli,33,Srirangam
+33,Tiruchirappalli,33,Tiruchirappalli West
+33,Tiruchirappalli,33,Tiruchirappalli East
+33,Tiruchirappalli,33,Tiruverumbur
+33,Tiruchirappalli,33,Gandharvakottai
+33,Tiruchirappalli,33,Pudukkottai
+34,Tirunelveli,34,Alangulam
+34,Tirunelveli,34,Tirunelveli
+34,Tirunelveli,34,Ambasamudram
+34,Tirunelveli,34,Palayamkottai
+34,Tirunelveli,34,Nanguneri
+34,Tirunelveli,34,Radhapuram
+35,Tiruppur,35,Perundurai
+35,Tiruppur,35,Bhavani
+35,Tiruppur,35,Anthiyur
+35,Tiruppur,35,Gobichettipalayam
+35,Tiruppur,35,Tiruppur North
+35,Tiruppur,35,Tiruppur South
+36,Tiruvannamalai,36,Jolarpet
+36,Tiruvannamalai,36,Tirupattur
+36,Tiruvannamalai,36,Chengam
+36,Tiruvannamalai,36,Tiruvannamalai
+36,Tiruvannamalai,36,Kilpennathur
+36,Tiruvannamalai,36,Kalasapakkam
+37,Vellore,37,Vellore
+37,Vellore,37,Anaikattu
+37,Vellore,37,Kilvaithinankuppam
+37,Vellore,37,Gudiyattam
+37,Vellore,37,Vaniyambadi
+37,Vellore,37,Ambur
+38,Villupuram (SC),38,Tindivanam
+38,Villupuram (SC),38,Vanur
+38,Villupuram (SC),38,Villupuram
+38,Villupuram (SC),38,Vikravandi
+38,Villupuram (SC),38,Tirukkoyilur
+38,Villupuram (SC),38,Ulundurpettai
+39,Virudhunagar,39,Thiruparankundram
+39,Virudhunagar,39,Thirumangalam
+39,Virudhunagar,39,Sattur
+39,Virudhunagar,39,Sivakasi
+39,Virudhunagar,39,Virudhunagar
+39,Virudhunagar,39,Aruppukkottai
